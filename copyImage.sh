@@ -36,7 +36,7 @@ wget $URL_IMAGE_PART3
 wget $URL_IMAGE_PART4
 echo "ok! "
 
-echo "[*] Descomprimiendo y uniendo las partes de la imagen de Raspbian-RT... "
+echo "[*] Descomprimiendo y uniendo las partes de la imagen de RaspbianXenomai... "
 7z x Raspbian_3.8.13_Xenomai.img.7z.001
 echo "ok! "
 
