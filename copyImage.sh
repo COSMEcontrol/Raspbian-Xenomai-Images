@@ -6,10 +6,10 @@
 #### Descarga y copia imagen de RaspbianXenomai del repositorio
 #####################################################
 
-URL_IMAGE_PART1="http://downloads.raspberrypi.org/raspbian/images/raspbian-2014-09-12/2014-09-09-wheezy-raspbian.zip"
-URL_IMAGE_PART2="http://downloads.raspberrypi.org/raspbian/images/raspbian-2014-09-12/2014-09-09-wheezy-raspbian.zip"
-URL_IMAGE_PART3="http://downloads.raspberrypi.org/raspbian/images/raspbian-2014-09-12/2014-09-09-wheezy-raspbian.zip"
-URL_IMAGE_PART4="http://downloads.raspberrypi.org/raspbian/images/raspbian-2014-09-12/2014-09-09-wheezy-raspbian.zip"
+URL_IMAGE_PART1="https://github.com/COSMEcontrol/RaspbianXenomai-Images/releases/download/3.8.13/Raspbian_3.8.13_Xenomai.img.7z.001"
+URL_IMAGE_PART2="https://github.com/COSMEcontrol/RaspbianXenomai-Images/releases/download/3.8.13/Raspbian_3.8.13_Xenomai.img.7z.002"
+URL_IMAGE_PART3="https://github.com/COSMEcontrol/RaspbianXenomai-Images/releases/download/3.8.13/Raspbian_3.8.13_Xenomai.img.7z.003"
+URL_IMAGE_PART4="https://github.com/COSMEcontrol/RaspbianXenomai-Images/releases/download/3.8.13/Raspbian_3.8.13_Xenomai.img.7z.004"
 ruta_sd=""
 
 #comprobar si soy root
