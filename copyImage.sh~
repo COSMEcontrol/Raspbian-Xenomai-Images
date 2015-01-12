@@ -18,9 +18,6 @@ if [[ $EUID -ne 0 ]]; then
 	exit 1
 fi
 
-echo "[*] Comprobando utilidades de compilacion... "
-type 7z > /dev/null 2>&1 || { echo >&2 "[!] Instalar \"descompresor 7z (apt-get install p7zip-full)\""; read -p "Press [Enter] to continue..."; exit 1; }
-
 while [ -f $ruta_sd ]
 do
 	echo "[*] Intruduce la ruta completa del lector de tarjetas SD (/dev/mmcblk0)"
