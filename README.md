@@ -19,7 +19,7 @@ Download and copy the image of RaspbianXenomai ready for use:
 ```groovy
   sudo ./copyImage.sh
 ```
-Specify the route where will be copied image RaspbianRT
+Specify the route where will be copied image RaspbianXenomai
 Example:
  ```groovy
   /dev/mmcblk0
