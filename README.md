@@ -1,6 +1,6 @@
-RaspbianXenomai-Images
+Raspbian-Xenomai-Images
 =================
-Download and copy the image of RaspbianXenomai into a device.
+Download and copy the image of Raspbian-Xenomai into a device.
 
 RaspbianXenomai
 =================
